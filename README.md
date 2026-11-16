@@ -22,7 +22,7 @@
 <br />
 
 <!-- BADGES DE ESTADO -->
-<a href="https://linkedin.com/in/TU_LINKEDIN">
+<a href="[https://linkedin.com/in/TU_LINKEDIN](https://www.linkedin.com/in/jonathan-alexis-cherriz-solis/)">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
 </a>
 &nbsp;
